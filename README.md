@@ -27,7 +27,7 @@ We've provided you with a console that you can use to test your code. To enter a
 
 ### Basic Class Methods and Properties
 
-#### Build the following methods on the `Customer` class
+####  DONE! Build the following methods on the `Customer` class
 
 - `Customer.all`
   - should return **all** of the customer instances
@@ -40,7 +40,7 @@ We've provided you with a console that you can use to test your code. To enter a
 
 ---
 
-#### Build out the following methods on the `Restaurant` class
+#### DONE! Build out the following methods on the `Restaurant` class
 
 - `Restaurant.all`
   - returns an array of all restaurants
@@ -49,7 +49,7 @@ We've provided you with a console that you can use to test your code. To enter a
 
 ---
 
-#### Build out the following methods on the `Review` class
+####  DONE! Build out the following methods on the `Review` class
 
 - `Review.all`
   - returns all of the reviews
@@ -68,7 +68,7 @@ We've provided you with a console that you can use to test your code. To enter a
 
 ### Associations and Aggregate Methods
 
-#### Customer
+####  DONE! Customer
 
 - `Customer#add_review(restaurant, content, rating)`
   - given a **restaurant object**, some review content (as a string), and a star rating (as an integer), creates a new review and associates it with that customer and restaurant.
@@ -77,7 +77,7 @@ We've provided you with a console that you can use to test your code. To enter a
 - `Customer#restaurants`
   - Returns a **unique** array of all restaurants a customer has reviewed
 
-#### Restaurant
+#### DONE! Restaurant
 
 - `Restaurant#customers`
   - Returns a **unique** list of all customers who have reviewed a particular restaurant.
