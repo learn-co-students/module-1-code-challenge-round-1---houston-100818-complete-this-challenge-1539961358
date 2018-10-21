@@ -8,7 +8,7 @@ end
 # so they will be available to test and play around with in your console
 
 hannah = Customer.new("Hannah", "Chang")
-customer2 = Customer.new("We", "Work")
+customer2 = Customer.new("Chomper", "Park")
 hannah2 = Customer.new("Hannah", "Banana")
 
 babbo = Restaurant.new("Babbo")
